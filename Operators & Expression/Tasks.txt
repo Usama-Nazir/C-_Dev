@@ -1,0 +1,58 @@
+1.3.18   LAB   Parentheses
+
+Level of difficulty
+Easy
+
+Objectives
+Familiarize the student with:
+
+the order of operations;
+the use of parentheses to change the order of operations.
+Scenario
+Add some parentheses (none, one or two pairs) in the code below to get the expected results. Try to do this before you run the program.
+
+1.3.19   LAB   Floats: operators and expressions
+Objectives
+Familiarize the student with:
+
+the concept of integers, floating-point numbers, operators and arithmetic operations in C++ programming;
+understanding the precedence and associativity of C++ operators as well as the proper use of parentheses;
+performing basic calculations.
+Scenario
+Take a look at the code in the editor - it reads a float value, puts it into a variable named x and prints the value of a variable named y. Your task is to complete the code in order to evaluate the following expression:
+
+
+
+
+We expect the result to be assigned to y.
+
+Note: we've prepared a variable containing the value of π. Use it.
+
+Be careful! Watch the operators and keep their priorities in mind. Remember that classical algebraic notation likes to omit the multiplication operator – you need to use it explicitly.
+
+Don't hesitate to use as many parentheses as you need. Keep your code clean and readable – surround the operators with spaces.
+
+Use additional variables to shorten the expression.
+
+Hint: multiply x by x to get x squared.
+
+Test your code by using the data we've provided – don't be discouraged by any initial failures. Be persistent and inquisitive. Good luck!
+
+
+1.3.20   LAB   Ints: operators and expressions
+Level of difficulty
+Easy
+
+Objectives
+Familiarize the student with:
+
+shortcut and pre/post increment/decrement operators;
+building simple expressions;
+translating verbal description into programming language;
+testing code using known input and output data.
+Scenario
+Take a look at the code below: it reads two integer values, manipulates them and finally outputs the k variable. The problem is that the manipulations have been described using natural language, so the code is completely useless now.
+
+We want you to act as an intelligent (naturally!) compiler and to translate the formula into real C++ notation. Try to use pre/post and short-cut operators – they fit perfectly into some of the steps.
+
+Test your code using the data we've provided.
